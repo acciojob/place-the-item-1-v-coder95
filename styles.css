@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.p1{
+.holder{
 	display:flex;
 	justify-content:space-between;
 }
