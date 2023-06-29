@@ -3,6 +3,7 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
+	flex-wrap:wrap;
 }
 .p{
 	background-color:red;width:100px;
